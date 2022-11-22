@@ -13,7 +13,6 @@ class D2 extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         title: Text("-D2-"),
-        //titleTextStyle: ,
       ),
       body: Center(
           child: Column(
